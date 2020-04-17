@@ -1,0 +1,9 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "creating node server",
+  "main": "index.js",
+  "repository": "https://github.com/aarti-git/node.git",
+  "author": "Yogesh Jagdale <yog99mail@gmail.com>",
+  "license": "MIT"
+}
